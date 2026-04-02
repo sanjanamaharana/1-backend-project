@@ -1,0 +1,5 @@
+1. open imagekit.io -> libary
+2. link with express, mongodb , mongoose , db , model
+3. npm i multer
+4. look how they post
+5. in src create a folder -> services(folder) -> storage.service.js
